@@ -27,3 +27,6 @@ Routing: React Router
 State Management: React Context API
 
 Icons: React Icons
+
+website live link : https://swiggyclone00.netlify.app/
+
